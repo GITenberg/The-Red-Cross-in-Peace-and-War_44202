@@ -1,0 +1,31 @@
+_repo: The-Red-Cross-in-Peace-and-War_44202
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44202-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barton, Clara
+    aliases:
+    - Barton, Clara Harlowe
+    - Barton, Clarissa Harlowe
+    birthdate: 1821
+    deathdate: 1912
+    gutenberg_agent_id: '34455'
+    url: http://www.gutenberg.org/2009/agents/34455
+    wikipedia: http://en.wikipedia.org/wiki/Clara_Barton
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American National Red Cross'
+- !lcc 'HV'
+- !lcsh 'Red Cross and Red Crescent'
+title: The Red Cross in Peace and War
+url: http://www.gutenberg.org/ebooks/44202
